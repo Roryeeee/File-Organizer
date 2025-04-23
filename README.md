@@ -45,7 +45,7 @@ Files are moved to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/file-organizer.git
+git clone https://github.com/Roryeeee/file-organizer.git
 cd file-organizer
 ```
 ###  2. Install Requirements
