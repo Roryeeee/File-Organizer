@@ -18,6 +18,8 @@ destination_fdr = {
     'pdfs': os.path.join(user_home_dir, "Documents", "PDFs"),
     'videos': os.path.join(user_home_dir, "Videos"),
     'MS office': os.path.join(user_home_dir, "Documents", "Office"),
+    'wps_files': os.path.join(user_home_dir, "Documents", "WPS Files"),
+    'cad_files': os.path.join(user_home_dir, "Documents", "CAD Files"),
     'others': os.path.join(user_home_dir, "Downloads", "Others"),
     'Compressed': os.path.join(user_home_dir, "Downloads", "Compressed")
 }
@@ -28,6 +30,8 @@ file_type = {
     'pdfs': ['.pdf'],
     'videos': ['.mp4', '.avi', '.mkv', '.mov', '.wmv'],
     'MS office': ['.doc', '.docx', '.rtf', '.xls', '.xlsx', '.ppt', '.pptx', '.txt'],
+    'wps_files': ['.wps'],
+    'cad_files': ['.dwg', '.dxf'],
     'Compressed': ['.zip', '.rar', '.7z', '.tar', '.gz']
 }
 
